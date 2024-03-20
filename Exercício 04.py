@@ -1,4 +1,4 @@
-# Ex3. Faça um programa que receba um número e usando laços de repetição calcule e mostre a tabuada desse número.
+# 04- Faça um programa que receba um número e usando laços de repetição calcule e mostre a tabuada desse número.
 
 numero = int(input("Digite um número para ver sua tabuada: "))
 

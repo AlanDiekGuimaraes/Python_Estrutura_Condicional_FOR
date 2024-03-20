@@ -1,4 +1,4 @@
-# Faça um programa que leia 5 números e informe o maior número.
+# 02 - Faça um programa que leia 5 números e informe o maior número.
 
 maior_numero = float('-inf')
 
