@@ -75,3 +75,13 @@ Acima de 61 anos
 20 - Faça um programa que mostre todos os primos entre 1 e N sendo N um número inteiro fornecido pelo usuário. O programa deverá mostrar também o número de divisões que ele executou para encontrar os números primos. Serão avaliados o funcionamento, o estilo e o número de testes (divisões) executados.
 
 numero = int(input("Informe um número para mostrarmos os números primos entre 1 e o valor digitado"))
+
+21 - Faça um programa que peça 10 números inteiros, calcule e mostre a quantidade de números pares e a quantidade de números impares.
+
+22 - Faça um programa que receba dois números inteiros e gere os números
+inteiros que estão no intervalo compreendido por eles.
+
+23 - Altere o programa anterior para mostrar no final a soma dos números.
+
+24 - A série de Fibonacci é formada pela sequência 1,1,2,3,5,8,13,21,34,55,... Faça um programa capaz de gerar a série até o enésimo termo.
+
